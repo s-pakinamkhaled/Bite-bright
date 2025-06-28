@@ -65,7 +65,3 @@ Bite Bright focuses on:
 ---
 
 
-
-- Bug fixes: ≤ 6 hours  
-- System updates: ≤ 10 minutes  
-- Test coverage: ≥ 90%  
