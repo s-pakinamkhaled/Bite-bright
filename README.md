@@ -1,4 +1,4 @@
-# Bite Bright – Modern Diet & Wellness Management System
+# Bite Bright – Modern Diet & Wellness Management System Modelling
 
 **Bite Bright** is a diet and emotional health management system that encourages sustainable, healthy eating habits through personalized recommendations, emotional health tracking, and real-time feedback. It addresses food-related anxiety, ineffective dieting tools, and the lack of holistic dietary guidance.
 
